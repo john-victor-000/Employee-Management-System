@@ -29,3 +29,7 @@ Excited to share my recent full-stack backend-focused project where I built a co
 ## 📌 Key Takeaway
 
 This combination helped me understand how backend systems communicate with databases and how frontend interfaces consume APIs.
+
+
+Demo video link:   
+https://www.linkedin.com/posts/john-victor-dabbakuti_fastapi-postgresql-streamlit-activity-7430140329007230976-GxoB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVlq2ABpeRrBs63r3mnPsf_5EL6CEky6to
